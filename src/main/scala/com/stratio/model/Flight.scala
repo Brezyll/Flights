@@ -42,6 +42,10 @@ object Flight{
   * Create a new Flight Class from a CSV file
   *
   */
+
+
+
+  // que pasa pipi
   def apply(fields: Array[String]): Flight = ???
 
   /*
